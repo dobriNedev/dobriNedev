@@ -1,11 +1,15 @@
 ## 👋 Hi, I’m Dobri `@dobriNedev`
+
 ## 🌱 I’m currently student `@ SoftUni`
+
 ## 💞️ I’m looking for:
 - collaboration on projects
 - internship
 - junior position 
+
 ## 📫 Contact me:
 - dobrinedev@gmail.com
+
 ## Certification:
 - https://github.com/dobriNedev/Certificates
 
