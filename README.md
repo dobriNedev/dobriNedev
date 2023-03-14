@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @dobriNedev 
-- 🌱 I’m currently learning JavaScript @ SoftUni
-- 💞️ I’m looking to collaborate on simple projects (based on my current level of JS)
-- 📫 dobrinedev@gmail.com
+## 👋 Hi, I’m Dobri `@dobriNedev`
+## 🌱 I’m currently student `@ SoftUni`
+## 💞️ I’m looking for:
+- collaboration on projects
+- internship
+- junior position 
+## 📫 Contact me:
+- dobrinedev@gmail.com
 
 <!---
 dobriNedev/dobriNedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
