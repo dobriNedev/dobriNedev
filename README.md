@@ -1,11 +1,6 @@
 ## 👋 Hi, I’m Dobri `@dobriNedev`
 
-## 🌱 I’m currently student `@ SoftUni`
-
-## 💞️ I’m looking for:
-- collaboration on projects
-- internship
-- junior position 
+## 🌱 I’m junior full-stack developer `@ Releva AI`
 
 ## 📫 Contact me:
 - dobrinedev@gmail.com
