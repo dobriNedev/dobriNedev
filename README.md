@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Dobri `@dobriNedev`
 
-## 🌱 I’m junior full-stack developer `@ Releva AI`
+## 🌱 I’m a full-stack developer `@ Releva AI`
 
 ## 📫 Contact me:
 - dobrinedev@gmail.com
